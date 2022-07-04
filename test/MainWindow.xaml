@@ -9,5 +9,6 @@
     <StackPanel>
         <TextBlock Text="hello"/>
         <TextBlock Text="world"/>
+        <TextBlock Text="지워지는 지 확인"/>
     </StackPanel>
 </Window>
