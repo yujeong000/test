@@ -10,5 +10,6 @@
         <TextBlock Text="hello"/>
         <TextBlock Text="world"/>
         <TextBlock Text="지워지는 지 확인"/>
+	<TextBlock Text="이걸로 덮어쓰기"/>
     </StackPanel>
 </Window>
