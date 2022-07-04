@@ -9,5 +9,6 @@
     <StackPanel>
         <TextBlock Text="hello"/>
         <TextBlock Text="world"/>
+        <TextBlock Text="이걸로 덮어쓰기"/>
     </StackPanel>
 </Window>
